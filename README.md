@@ -89,4 +89,13 @@ Create user-specific dashboards for personal finance tracking.
 
 Implement email notifications for large expenses.
 
+# Note
+
+src folder contains front end files
+
+backend folder contains backend files
+
+navigate to frontend folder and install react app using: npm create-react-app expense-tracker 
+
+then replace the files from src folder.
 
