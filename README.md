@@ -36,7 +36,7 @@ Axios for making API requests
 # Backend Setup
 Clone the repository:
 
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/swarathmica/expense-tracker.git
 
 Navigate to the backend directory:
 
